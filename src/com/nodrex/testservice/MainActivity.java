@@ -15,5 +15,5 @@ public class MainActivity extends ActionBarActivity {
 
 		startService(new Intent(this, SonarService.class));
 	}
-
+ 
 }
